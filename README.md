@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Akshaya 👋
 
-<!--
-**Akshaya-cse-52/Akshaya-cse-52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student
 
-Here are some ideas to get you started:
+🌱 Currently learning:
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goal:
+To become a  Ai full Stack Developer.
+
+📫 Connect with me:
+- GitHub: https://github.com/Akshaya-cse-52
