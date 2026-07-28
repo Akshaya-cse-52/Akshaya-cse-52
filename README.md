@@ -2,14 +2,25 @@
 
 🎓 CSE Student
 
-🌱 Currently learning:
+💻 Aspiring AI Full Stack Developer
+
+🌱 Currently Learning
 - HTML
 - CSS
 - JavaScript
 - Git & GitHub
+- React (Next)
+- Python
 
-🎯 Goal:
-To become a  Ai full Stack Developer.
+🎯 Goal
+To become an AI Full Stack Developer and build real-world projects.
 
-📫 Connect with me:
+🚀 Current Focus
+- Improving web development skills
+- Learning AI integration
+- Building GitHub projects every week
+
+📫 Connect with me
 - GitHub: https://github.com/Akshaya-cse-52
+
+⭐ Thanks for visiting my profile!
